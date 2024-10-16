@@ -25,5 +25,10 @@
       "quantity": 5
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "quantity": 34,
+      "id": 3
+    }
+  ]
 }
